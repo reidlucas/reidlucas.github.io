@@ -1,0 +1,24 @@
+body { 
+	padding-left: 11em;
+	background-color: black;
+	background-image:url('comingsoon.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center; 
+	font-family: Verdana, Arial, Times;
+	color: white;
+	font-size: 11; }
+u1.navbar {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	top: 2em;
+	left: 1em;
+	width: 9em; }
+ul.navbar a { text-decoration: none }
+a:link { color: lightgrey }
+a:visited { color: lightgrey }
+h1 {
+	font-family: Verdana, Arial, Times;
+	color: darkgrey; }
